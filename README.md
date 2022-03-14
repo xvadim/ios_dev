@@ -1,5 +1,5 @@
 # ios_dev
-Codelabs for the course iOS development
+Codelabs for a ObjC development course
 
 How to work:
 
